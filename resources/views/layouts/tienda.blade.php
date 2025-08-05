@@ -69,7 +69,7 @@
     </footer>
 
     {{-- Botón flotante de WhatsApp --}}
-    <a href="https://wa.me/+529532118715?text=Hola%20XQUELAGUIDI,%20quiero%20más%20información%20sobre%20sus%20huaraches"
+    <a href="https://wa.me/+529711599543?text=Hola%20XQUELAGUIDI,%20quiero%20más%20información%20sobre%20sus%20huaraches"
         target="_blank"
         class="fixed bottom-4 right-4 z-50 bg-green-500 hover:bg-green-600 text-white rounded-full shadow-lg flex items-center justify-center w-14 h-14 transition-all duration-300"
         title="Contáctanos por WhatsApp" aria-label="Contáctanos por WhatsApp">

@@ -8,8 +8,15 @@
         <tr>
             <th>ID</th>
             <th>Cliente</th>
-            <th>Estado</th>
+            <th>telefono</th>
+            <th>direccion de envio</th>
+            <th>Estado del pedido</th>
+
+            <th>infromacion del pedido</th>
+            <th>precio total</th>
             <th>Fecha</th>
+
+
             <th></th>
         </tr>
     </thead>
